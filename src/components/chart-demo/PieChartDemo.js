@@ -62,7 +62,7 @@ function PieChartDemo() {
         width={480}
         height={500}
       />
-      <div className="grid grid-cols-2 md:grid-cols-3">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
         <div className="flex gap-1 items-center">
           <div className="w-3 h-3 bg-yellow-300"></div>
           <label htmlFor="bawah">Bawah 20 tahun</label>
